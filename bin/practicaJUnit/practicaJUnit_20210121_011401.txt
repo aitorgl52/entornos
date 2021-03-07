@@ -1,0 +1,13 @@
+WARNING - 01:14:02: First conversion pass
+ERROR - 01:14:02: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 01:14:26: First conversion pass
+ERROR - 01:14:26: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 01:14:44: Convert practicaJUnit
+WARNING - 01:14:44: First conversion pass
+ERROR - 01:14:44: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 01:16:21: First conversion pass
+ERROR - 01:16:21: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+ERROR - 01:16:21: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+WARNING - 01:16:38: First conversion pass
+ERROR - 01:16:38: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+ERROR - 01:16:38: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
